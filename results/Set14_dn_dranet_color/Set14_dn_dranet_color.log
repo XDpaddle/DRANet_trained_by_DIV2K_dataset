@@ -1,0 +1,5 @@
+23-07-11 17:17:53.879 : Model path: trans_over.pdparams
+23-07-11 17:17:53.881 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-11 17:17:53.881 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-11 17:17:53.881 : testsets\Set14

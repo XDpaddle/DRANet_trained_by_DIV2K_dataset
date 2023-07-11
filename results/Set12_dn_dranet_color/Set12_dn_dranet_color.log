@@ -1,0 +1,204 @@
+23-06-03 18:11:43.519 : Model path: model_zoo\dranet_color.pth
+23-06-03 18:11:43.520 : Params number: 1616852
+23-06-03 18:11:43.520 : model_name:dranet_color, model sigma:50, image sigma:50
+23-06-03 18:11:43.520 : testsets\Set12
+23-06-03 18:11:50.755 : Airpl..png - PSNR: 28.39 dB; SSIM: 0.8585.
+23-06-03 18:11:52.974 : Barbara.png - PSNR: 29.74 dB; SSIM: 0.8774.
+23-06-03 18:11:55.207 : Boat.png - PSNR: 29.76 dB; SSIM: 0.8023.
+23-06-03 18:11:56.000 : C.man.png - PSNR: 29.50 dB; SSIM: 0.8625.
+23-06-03 18:11:58.259 : Couple.png - PSNR: 29.68 dB; SSIM: 0.8233.
+23-06-03 18:11:59.050 : House.png - PSNR: 33.02 dB; SSIM: 0.8598.
+23-06-03 18:12:01.299 : Lena.png - PSNR: 32.17 dB; SSIM: 0.8698.
+23-06-03 18:12:03.643 : Man.png - PSNR: 29.46 dB; SSIM: 0.8038.
+23-06-03 18:12:04.460 : Monar..png - PSNR: 29.83 dB; SSIM: 0.9177.
+23-06-03 18:12:05.248 : Parrot.png - PSNR: 28.99 dB; SSIM: 0.8530.
+23-06-03 18:12:06.064 : Peppers.png - PSNR: 30.36 dB; SSIM: 0.8774.
+23-06-03 18:12:06.851 : Starfish.png - PSNR: 28.71 dB; SSIM: 0.8547.
+23-06-03 18:12:06.858 : Average PSNR/SSIM(RGB) - Set12_dn_dranet_color - PSNR: 29.97 dB; SSIM: 0.8550
+23-07-09 22:31:24.132 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:31:24.148 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:31:24.148 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:31:24.148 : testsets\Set12
+23-07-09 22:35:34.928 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:35:34.930 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:35:34.930 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:35:34.930 : testsets\Set12
+23-07-09 22:37:30.822 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:37:30.823 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:37:30.823 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:37:30.823 : testsets\Set12
+23-07-09 22:38:46.483 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:38:46.484 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:38:46.484 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:38:46.484 : testsets\Set12
+23-07-09 22:44:21.444 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:44:21.445 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:44:21.445 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:44:21.445 : testsets\Set12
+23-07-09 22:47:17.170 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:47:17.172 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:47:17.172 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:47:17.172 : testsets\Set12
+23-07-09 22:49:06.498 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:49:06.499 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:49:06.499 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:49:06.499 : testsets\Set12
+23-07-09 22:50:22.079 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:50:22.081 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:50:22.081 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:50:22.081 : testsets\Set12
+23-07-09 22:50:55.453 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:50:55.454 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:50:55.454 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:50:55.454 : testsets\Set12
+23-07-09 22:53:02.591 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:53:02.592 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:53:02.592 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:53:02.592 : testsets\Set12
+23-07-09 22:53:26.976 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:53:26.978 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:53:26.978 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:53:26.978 : testsets\Set12
+23-07-09 22:53:49.607 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:53:49.608 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:53:49.608 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:53:49.608 : testsets\Set12
+23-07-09 22:55:47.479 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:55:47.480 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:55:47.480 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:55:47.480 : testsets\Set12
+23-07-09 22:58:41.679 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 22:58:41.681 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 22:58:41.681 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 22:58:41.681 : testsets\Set12
+23-07-09 23:00:24.293 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:00:24.295 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:00:24.295 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:00:24.295 : testsets\Set12
+23-07-09 23:02:49.730 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:02:49.731 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:02:49.732 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:02:49.732 : testsets\Set12
+23-07-09 23:03:44.246 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:03:44.247 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:03:44.247 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:03:44.247 : testsets\Set12
+23-07-09 23:07:16.107 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:07:16.109 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:07:16.109 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:07:16.109 : testsets\Set12
+23-07-09 23:09:19.369 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:09:19.370 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:09:19.371 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:09:19.371 : testsets\Set12
+23-07-09 23:11:17.520 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:11:17.522 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:11:17.522 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:11:17.522 : testsets\Set12
+23-07-09 23:17:16.009 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:17:16.010 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:17:16.010 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:17:16.010 : testsets\Set12
+23-07-09 23:18:50.737 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:18:50.739 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:18:50.739 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:18:50.739 : testsets\Set12
+23-07-09 23:23:22.349 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:23:22.351 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:23:22.351 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:23:22.351 : testsets\Set12
+23-07-09 23:26:27.436 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-09 23:26:27.438 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-09 23:26:27.438 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-09 23:26:27.438 : testsets\Set12
+23-07-10 00:07:41.540 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-10 00:07:41.542 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-10 00:07:41.542 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-10 00:07:41.544 : testsets\Set12
+23-07-10 00:14:40.171 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-10 00:14:40.176 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-10 00:14:40.177 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-10 00:14:40.177 : testsets\Set12
+23-07-10 00:16:20.071 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-10 00:16:20.073 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-10 00:16:20.073 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-10 00:16:20.073 : testsets\Set12
+23-07-10 09:35:24.256 : Model path: E:\PycharmCode\DRANet\DRANet-Paddle\trans_over.pdparams
+23-07-10 09:35:24.263 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-10 09:35:24.263 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-10 09:35:24.263 : testsets\Set12
+23-07-10 09:35:29.142 : 1_1.png - PSNR: 28.63 dB; SSIM: 0.5037.
+23-07-10 09:35:29.486 : 1_10.png - PSNR: 29.09 dB; SSIM: 0.5643.
+23-07-10 09:35:29.830 : 1_11.png - PSNR: 27.71 dB; SSIM: 0.5716.
+23-07-10 09:35:30.173 : 1_12.png - PSNR: 28.04 dB; SSIM: 0.4662.
+23-07-10 09:35:30.519 : 1_13.png - PSNR: 28.81 dB; SSIM: 0.5610.
+23-07-10 09:35:30.869 : 1_14.png - PSNR: 28.37 dB; SSIM: 0.4904.
+23-07-10 09:35:31.216 : 1_15.png - PSNR: 28.75 dB; SSIM: 0.5084.
+23-07-10 09:35:31.559 : 1_16.png - PSNR: 29.48 dB; SSIM: 0.5471.
+23-07-10 09:35:31.903 : 1_17.png - PSNR: 27.87 dB; SSIM: 0.4789.
+23-07-10 09:35:32.247 : 1_18.png - PSNR: 28.58 dB; SSIM: 0.5075.
+23-07-10 09:35:32.593 : 1_19.png - PSNR: 27.87 dB; SSIM: 0.4842.
+23-07-10 09:35:32.937 : 1_2.png - PSNR: 29.64 dB; SSIM: 0.5652.
+23-07-10 09:35:33.279 : 1_20.png - PSNR: 28.33 dB; SSIM: 0.5236.
+23-07-10 09:35:33.623 : 1_3.png - PSNR: 28.69 dB; SSIM: 0.5377.
+23-07-10 09:35:33.971 : 1_4.png - PSNR: 28.43 dB; SSIM: 0.4966.
+23-07-10 09:35:34.314 : 1_5.png - PSNR: 28.39 dB; SSIM: 0.4893.
+23-07-10 09:35:34.659 : 1_6.png - PSNR: 28.41 dB; SSIM: 0.5153.
+23-07-10 09:35:35.003 : 1_7.png - PSNR: 28.60 dB; SSIM: 0.5156.
+23-07-10 09:35:35.346 : 1_8.png - PSNR: 28.18 dB; SSIM: 0.4859.
+23-07-10 09:35:35.688 : 1_9.png - PSNR: 28.29 dB; SSIM: 0.4797.
+23-07-10 09:35:35.690 : Average PSNR/SSIM(RGB) - Set12_dn_dranet_color - PSNR: 28.51 dB; SSIM: 0.5146
+23-07-11 17:16:36.033 : Model path: trans_over.pdparams
+23-07-11 17:16:36.036 : Params number: Tensor(shape=[1], dtype=int64, place=Place(gpu:0), stop_gradient=True,
+       [1616852])
+23-07-11 17:16:36.036 : model_name:dranet_color, model sigma:50, image sigma:50
+23-07-11 17:16:36.037 : testsets\Set12
+23-07-11 17:16:37.721 : 1_1.png - PSNR: 28.63 dB; SSIM: 0.5037.
+23-07-11 17:16:38.065 : 1_10.png - PSNR: 29.09 dB; SSIM: 0.5643.
+23-07-11 17:16:38.405 : 1_11.png - PSNR: 27.71 dB; SSIM: 0.5716.
+23-07-11 17:16:38.746 : 1_12.png - PSNR: 28.04 dB; SSIM: 0.4662.
+23-07-11 17:16:39.089 : 1_13.png - PSNR: 28.81 dB; SSIM: 0.5610.
+23-07-11 17:16:39.429 : 1_14.png - PSNR: 28.37 dB; SSIM: 0.4904.
+23-07-11 17:16:39.773 : 1_15.png - PSNR: 28.75 dB; SSIM: 0.5084.
+23-07-11 17:16:40.112 : 1_16.png - PSNR: 29.48 dB; SSIM: 0.5471.
+23-07-11 17:16:40.453 : 1_17.png - PSNR: 27.87 dB; SSIM: 0.4789.
+23-07-11 17:16:40.798 : 1_18.png - PSNR: 28.58 dB; SSIM: 0.5075.
+23-07-11 17:16:41.137 : 1_19.png - PSNR: 27.87 dB; SSIM: 0.4842.
+23-07-11 17:16:41.481 : 1_2.png - PSNR: 29.64 dB; SSIM: 0.5652.
+23-07-11 17:16:41.821 : 1_20.png - PSNR: 28.33 dB; SSIM: 0.5236.
+23-07-11 17:16:42.163 : 1_3.png - PSNR: 28.69 dB; SSIM: 0.5377.
+23-07-11 17:16:42.503 : 1_4.png - PSNR: 28.43 dB; SSIM: 0.4966.
+23-07-11 17:16:42.846 : 1_5.png - PSNR: 28.39 dB; SSIM: 0.4893.
+23-07-11 17:16:43.185 : 1_6.png - PSNR: 28.41 dB; SSIM: 0.5153.
+23-07-11 17:16:43.528 : 1_7.png - PSNR: 28.60 dB; SSIM: 0.5156.
+23-07-11 17:16:43.867 : 1_8.png - PSNR: 28.18 dB; SSIM: 0.4859.
+23-07-11 17:16:44.208 : 1_9.png - PSNR: 28.29 dB; SSIM: 0.4797.
+23-07-11 17:16:44.211 : Average PSNR/SSIM(RGB) - Set12_dn_dranet_color - PSNR: 28.51 dB; SSIM: 0.5146
